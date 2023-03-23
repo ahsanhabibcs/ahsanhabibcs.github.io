@@ -1,0 +1,15 @@
+.navbar-trans {
+  background: transparent; }
+
+a.navbar-brand, a.logo {
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: white !important;
+  font-size: 2rem;
+  font-weight: bold;
+  margin-top: 0; }
+
+.nav-link{
+  color: white;
+  padding: 0px; }
+a.logo:hover, a.logo:active, a.logo:focus {
+  text-decoration: none; }
